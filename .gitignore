@@ -1,0 +1,11 @@
+### Example user template template
+### Example user template
+
+# IntelliJ project files
+/.fleet
+/.idea
+/.vscode
+*.iml
+out
+gen
+.DS_Store
